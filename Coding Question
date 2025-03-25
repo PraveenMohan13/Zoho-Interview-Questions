@@ -10,7 +10,6 @@ on its right is 17. For 17 it's 5.
 For 4 it's 5. For 3 it's 5. For 5 it's 2. 
 For 2 it's -1(no element to its right). 
 So the answer is 17 5 5 5 2 -1
-Link: https://www.geeksforgeeks.org/problems/greater-on-right-side4305/1
 
 2. Given a Boolean matrix mat[M][N] of size M X N, modify it such that if a matrix cell mat[i][j] is 1 then make its adjacent cells as 0.
 Input:
